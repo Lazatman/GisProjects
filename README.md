@@ -1,0 +1,2 @@
+# GisProjects
+MyPlugin_qGIS
